@@ -30,12 +30,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0221-maximal-square](https://github.com/hritik-h/Leetcode/tree/master/0221-maximal-square) |
 | [0287-find-the-duplicate-number](https://github.com/hritik-h/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/hritik-h/Leetcode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/hritik-h/Leetcode/tree/master/2132-convert-1d-array-into-2d-array) |
 ## Matrix
 |  |
 | ------- |
+| [0221-maximal-square](https://github.com/hritik-h/Leetcode/tree/master/0221-maximal-square) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/hritik-h/Leetcode/tree/master/2132-convert-1d-array-into-2d-array) |
 ## Binary Search
 |  |
@@ -54,4 +56,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/hritik-h/Leetcode/tree/master/0287-find-the-duplicate-number) |
+## Dynamic Programming
+|  |
+| ------- |
+| [0221-maximal-square](https://github.com/hritik-h/Leetcode/tree/master/0221-maximal-square) |
 <!---LeetCode Topics End-->
