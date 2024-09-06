@@ -76,4 +76,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0613-shortest-distance-in-a-line](https://github.com/hritik-h/Leetcode/tree/master/0613-shortest-distance-in-a-line) |
 | [1154-product-sales-analysis-ii](https://github.com/hritik-h/Leetcode/tree/master/1154-product-sales-analysis-ii) |
 | [1180-game-play-analysis-ii](https://github.com/hritik-h/Leetcode/tree/master/1180-game-play-analysis-ii) |
+| [1639-friendly-movies-streamed-last-month](https://github.com/hritik-h/Leetcode/tree/master/1639-friendly-movies-streamed-last-month) |
 <!---LeetCode Topics End-->
