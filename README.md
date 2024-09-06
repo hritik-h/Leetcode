@@ -74,4 +74,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0603-consecutive-available-seats](https://github.com/hritik-h/Leetcode/tree/master/0603-consecutive-available-seats) |
 | [0613-shortest-distance-in-a-line](https://github.com/hritik-h/Leetcode/tree/master/0613-shortest-distance-in-a-line) |
+| [1154-product-sales-analysis-ii](https://github.com/hritik-h/Leetcode/tree/master/1154-product-sales-analysis-ii) |
 <!---LeetCode Topics End-->
