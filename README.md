@@ -69,4 +69,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/hritik-h/Leetcode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
+## Database
+|  |
+| ------- |
+| [0603-consecutive-available-seats](https://github.com/hritik-h/Leetcode/tree/master/0603-consecutive-available-seats) |
 <!---LeetCode Topics End-->
