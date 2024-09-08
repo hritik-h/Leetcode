@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0592-fraction-addition-and-subtraction](https://github.com/hritik-h/Leetcode/tree/master/0592-fraction-addition-and-subtraction) |
 | [1920-determine-color-of-a-chessboard-square](https://github.com/hritik-h/Leetcode/tree/master/1920-determine-color-of-a-chessboard-square) |
+| [2377-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/hritik-h/Leetcode/tree/master/2377-check-if-number-has-equal-digit-count-and-digit-value) |
 ## Simulation
 |  |
 | ------- |
@@ -66,6 +67,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [2377-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/hritik-h/Leetcode/tree/master/2377-check-if-number-has-equal-digit-count-and-digit-value) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/hritik-h/Leetcode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Linked List
 |  |
@@ -80,4 +82,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1154-product-sales-analysis-ii](https://github.com/hritik-h/Leetcode/tree/master/1154-product-sales-analysis-ii) |
 | [1180-game-play-analysis-ii](https://github.com/hritik-h/Leetcode/tree/master/1180-game-play-analysis-ii) |
 | [1639-friendly-movies-streamed-last-month](https://github.com/hritik-h/Leetcode/tree/master/1639-friendly-movies-streamed-last-month) |
+## Counting
+|  |
+| ------- |
+| [2377-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/hritik-h/Leetcode/tree/master/2377-check-if-number-has-equal-digit-count-and-digit-value) |
 <!---LeetCode Topics End-->
