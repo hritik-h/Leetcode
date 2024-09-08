@@ -5,10 +5,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0592-fraction-addition-and-subtraction](https://github.com/hritik-h/Leetcode/tree/master/0592-fraction-addition-and-subtraction) |
+| [1920-determine-color-of-a-chessboard-square](https://github.com/hritik-h/Leetcode/tree/master/1920-determine-color-of-a-chessboard-square) |
 ## String
 |  |
 | ------- |
 | [0592-fraction-addition-and-subtraction](https://github.com/hritik-h/Leetcode/tree/master/0592-fraction-addition-and-subtraction) |
+| [1920-determine-color-of-a-chessboard-square](https://github.com/hritik-h/Leetcode/tree/master/1920-determine-color-of-a-chessboard-square) |
 ## Simulation
 |  |
 | ------- |
