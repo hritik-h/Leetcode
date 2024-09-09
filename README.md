@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0592-fraction-addition-and-subtraction](https://github.com/hritik-h/Leetcode/tree/master/0592-fraction-addition-and-subtraction) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/hritik-h/Leetcode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/hritik-h/Leetcode/tree/master/2132-convert-1d-array-into-2d-array) |
+| [2411-spiral-matrix-iv](https://github.com/hritik-h/Leetcode/tree/master/2411-spiral-matrix-iv) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/hritik-h/Leetcode/tree/master/2800-minimum-string-length-after-removing-substrings) |
 ## Stack
 |  |
@@ -40,12 +41,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/hritik-h/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/hritik-h/Leetcode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/hritik-h/Leetcode/tree/master/2132-convert-1d-array-into-2d-array) |
+| [2411-spiral-matrix-iv](https://github.com/hritik-h/Leetcode/tree/master/2411-spiral-matrix-iv) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/hritik-h/Leetcode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Matrix
 |  |
 | ------- |
 | [0221-maximal-square](https://github.com/hritik-h/Leetcode/tree/master/0221-maximal-square) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/hritik-h/Leetcode/tree/master/2132-convert-1d-array-into-2d-array) |
+| [2411-spiral-matrix-iv](https://github.com/hritik-h/Leetcode/tree/master/2411-spiral-matrix-iv) |
 ## Binary Search
 |  |
 | ------- |
@@ -76,6 +79,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0725-split-linked-list-in-parts](https://github.com/hritik-h/Leetcode/tree/master/0725-split-linked-list-in-parts) |
+| [2411-spiral-matrix-iv](https://github.com/hritik-h/Leetcode/tree/master/2411-spiral-matrix-iv) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/hritik-h/Leetcode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Database
 |  |
