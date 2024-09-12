@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0592-fraction-addition-and-subtraction](https://github.com/hritik-h/Leetcode/tree/master/0592-fraction-addition-and-subtraction) |
+| [1786-count-the-number-of-consistent-strings](https://github.com/hritik-h/Leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [1920-determine-color-of-a-chessboard-square](https://github.com/hritik-h/Leetcode/tree/master/1920-determine-color-of-a-chessboard-square) |
 | [2377-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/hritik-h/Leetcode/tree/master/2377-check-if-number-has-equal-digit-count-and-digit-value) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/hritik-h/Leetcode/tree/master/2800-minimum-string-length-after-removing-substrings) |
@@ -40,6 +41,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0221-maximal-square](https://github.com/hritik-h/Leetcode/tree/master/0221-maximal-square) |
 | [0287-find-the-duplicate-number](https://github.com/hritik-h/Leetcode/tree/master/0287-find-the-duplicate-number) |
+| [1786-count-the-number-of-consistent-strings](https://github.com/hritik-h/Leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/hritik-h/Leetcode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
 | [2132-convert-1d-array-into-2d-array](https://github.com/hritik-h/Leetcode/tree/master/2132-convert-1d-array-into-2d-array) |
 | [2411-spiral-matrix-iv](https://github.com/hritik-h/Leetcode/tree/master/2411-spiral-matrix-iv) |
@@ -67,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0287-find-the-duplicate-number](https://github.com/hritik-h/Leetcode/tree/master/0287-find-the-duplicate-number) |
+| [1786-count-the-number-of-consistent-strings](https://github.com/hritik-h/Leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2323-minimum-bit-flips-to-convert-number](https://github.com/hritik-h/Leetcode/tree/master/2323-minimum-bit-flips-to-convert-number) |
 ## Dynamic Programming
 |  |
@@ -75,6 +78,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Hash Table
 |  |
 | ------- |
+| [1786-count-the-number-of-consistent-strings](https://github.com/hritik-h/Leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2377-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/hritik-h/Leetcode/tree/master/2377-check-if-number-has-equal-digit-count-and-digit-value) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/hritik-h/Leetcode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Linked List
@@ -95,6 +99,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Counting
 |  |
 | ------- |
+| [1786-count-the-number-of-consistent-strings](https://github.com/hritik-h/Leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2377-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/hritik-h/Leetcode/tree/master/2377-check-if-number-has-equal-digit-count-and-digit-value) |
 ## Number Theory
 |  |
