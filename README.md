@@ -15,6 +15,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1920-determine-color-of-a-chessboard-square](https://github.com/hritik-h/Leetcode/tree/master/1920-determine-color-of-a-chessboard-square) |
 | [2377-check-if-number-has-equal-digit-count-and-digit-value](https://github.com/hritik-h/Leetcode/tree/master/2377-check-if-number-has-equal-digit-count-and-digit-value) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/hritik-h/Leetcode/tree/master/2800-minimum-string-length-after-removing-substrings) |
+| [3484-lexicographically-smallest-string-after-a-swap](https://github.com/hritik-h/Leetcode/tree/master/3484-lexicographically-smallest-string-after-a-swap) |
 ## Simulation
 |  |
 | ------- |
@@ -114,4 +115,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2503-longest-subarray-with-maximum-bitwise-and](https://github.com/hritik-h/Leetcode/tree/master/2503-longest-subarray-with-maximum-bitwise-and) |
+## Greedy
+|  |
+| ------- |
+| [3484-lexicographically-smallest-string-after-a-swap](https://github.com/hritik-h/Leetcode/tree/master/3484-lexicographically-smallest-string-after-a-swap) |
 <!---LeetCode Topics End-->
