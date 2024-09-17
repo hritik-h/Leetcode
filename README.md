@@ -4,12 +4,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0539-minimum-time-difference](https://github.com/hritik-h/Leetcode/tree/master/0539-minimum-time-difference) |
 | [0592-fraction-addition-and-subtraction](https://github.com/hritik-h/Leetcode/tree/master/0592-fraction-addition-and-subtraction) |
 | [1920-determine-color-of-a-chessboard-square](https://github.com/hritik-h/Leetcode/tree/master/1920-determine-color-of-a-chessboard-square) |
 | [2903-insert-greatest-common-divisors-in-linked-list](https://github.com/hritik-h/Leetcode/tree/master/2903-insert-greatest-common-divisors-in-linked-list) |
 ## String
 |  |
 | ------- |
+| [0539-minimum-time-difference](https://github.com/hritik-h/Leetcode/tree/master/0539-minimum-time-difference) |
 | [0592-fraction-addition-and-subtraction](https://github.com/hritik-h/Leetcode/tree/master/0592-fraction-addition-and-subtraction) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/hritik-h/Leetcode/tree/master/0920-uncommon-words-from-two-sentences) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/hritik-h/Leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
@@ -43,6 +45,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0221-maximal-square](https://github.com/hritik-h/Leetcode/tree/master/0221-maximal-square) |
 | [0287-find-the-duplicate-number](https://github.com/hritik-h/Leetcode/tree/master/0287-find-the-duplicate-number) |
+| [0539-minimum-time-difference](https://github.com/hritik-h/Leetcode/tree/master/0539-minimum-time-difference) |
 | [1435-xor-queries-of-a-subarray](https://github.com/hritik-h/Leetcode/tree/master/1435-xor-queries-of-a-subarray) |
 | [1786-count-the-number-of-consistent-strings](https://github.com/hritik-h/Leetcode/tree/master/1786-count-the-number-of-consistent-strings) |
 | [2006-find-the-student-that-will-replace-the-chalk](https://github.com/hritik-h/Leetcode/tree/master/2006-find-the-student-that-will-replace-the-chalk) |
@@ -122,4 +125,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3484-lexicographically-smallest-string-after-a-swap](https://github.com/hritik-h/Leetcode/tree/master/3484-lexicographically-smallest-string-after-a-swap) |
+## Sorting
+|  |
+| ------- |
+| [0539-minimum-time-difference](https://github.com/hritik-h/Leetcode/tree/master/0539-minimum-time-difference) |
 <!---LeetCode Topics End-->
