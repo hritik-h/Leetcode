@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## String
 |  |
 | ------- |
+| [0179-largest-number](https://github.com/hritik-h/Leetcode/tree/master/0179-largest-number) |
 | [0539-minimum-time-difference](https://github.com/hritik-h/Leetcode/tree/master/0539-minimum-time-difference) |
 | [0592-fraction-addition-and-subtraction](https://github.com/hritik-h/Leetcode/tree/master/0592-fraction-addition-and-subtraction) |
 | [0920-uncommon-words-from-two-sentences](https://github.com/hritik-h/Leetcode/tree/master/0920-uncommon-words-from-two-sentences) |
@@ -43,6 +44,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0179-largest-number](https://github.com/hritik-h/Leetcode/tree/master/0179-largest-number) |
 | [0221-maximal-square](https://github.com/hritik-h/Leetcode/tree/master/0221-maximal-square) |
 | [0287-find-the-duplicate-number](https://github.com/hritik-h/Leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0539-minimum-time-difference](https://github.com/hritik-h/Leetcode/tree/master/0539-minimum-time-difference) |
@@ -124,9 +126,11 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0179-largest-number](https://github.com/hritik-h/Leetcode/tree/master/0179-largest-number) |
 | [3484-lexicographically-smallest-string-after-a-swap](https://github.com/hritik-h/Leetcode/tree/master/3484-lexicographically-smallest-string-after-a-swap) |
 ## Sorting
 |  |
 | ------- |
+| [0179-largest-number](https://github.com/hritik-h/Leetcode/tree/master/0179-largest-number) |
 | [0539-minimum-time-difference](https://github.com/hritik-h/Leetcode/tree/master/0539-minimum-time-difference) |
 <!---LeetCode Topics End-->
