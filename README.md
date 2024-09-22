@@ -31,6 +31,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Stack
 |  |
 | ------- |
+| [0232-implement-queue-using-stacks](https://github.com/hritik-h/Leetcode/tree/master/0232-implement-queue-using-stacks) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/hritik-h/Leetcode/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [2800-minimum-string-length-after-removing-substrings](https://github.com/hritik-h/Leetcode/tree/master/2800-minimum-string-length-after-removing-substrings) |
 ## Tree
@@ -133,4 +134,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0179-largest-number](https://github.com/hritik-h/Leetcode/tree/master/0179-largest-number) |
 | [0539-minimum-time-difference](https://github.com/hritik-h/Leetcode/tree/master/0539-minimum-time-difference) |
+## Design
+|  |
+| ------- |
+| [0232-implement-queue-using-stacks](https://github.com/hritik-h/Leetcode/tree/master/0232-implement-queue-using-stacks) |
+## Queue
+|  |
+| ------- |
+| [0232-implement-queue-using-stacks](https://github.com/hritik-h/Leetcode/tree/master/0232-implement-queue-using-stacks) |
 <!---LeetCode Topics End-->
